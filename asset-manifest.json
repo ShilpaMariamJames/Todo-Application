@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//ShilpaMariamJames.github.io/Todo-Application/static/css/main.3782812b.css",
+    "main.js": "/http//ShilpaMariamJames.github.io/Todo-Application/static/js/main.4540725f.js",
+    "index.html": "/http//ShilpaMariamJames.github.io/Todo-Application/index.html",
+    "main.3782812b.css.map": "/http//ShilpaMariamJames.github.io/Todo-Application/static/css/main.3782812b.css.map",
+    "main.4540725f.js.map": "/http//ShilpaMariamJames.github.io/Todo-Application/static/js/main.4540725f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3782812b.css",
+    "static/js/main.4540725f.js"
+  ]
+}
